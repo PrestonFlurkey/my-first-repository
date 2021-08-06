@@ -1,2 +1,2 @@
 # README #
-git commit -m whatamidoing
+I have no idea what I'm doing
